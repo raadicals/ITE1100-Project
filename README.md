@@ -3,7 +3,7 @@ This repository was created for the purpose of Tutorial #4 - Graded Activity
 
 # Steps
 Step 1 - Install Git on your local machine and create a GitHub account (if you do not already 
-have one). 
+have one).  
 Step 2 - Create a local Git repository on your computer. 
 Step 3 - Choose one classmate (you may find a collaborator during the tutorial or before) and 
 add them as a Collaborator on your GitHub repository. 
