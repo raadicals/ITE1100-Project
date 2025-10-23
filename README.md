@@ -1,5 +1,7 @@
+# Tutorial #4
 This repository was created for the purpose of Tutorial #4 - Graded Activity
 
+# Steps
 Step 1 - Install Git on your local machine and create a GitHub account (if you do not already 
 have one). 
 Step 2 - Create a local Git repository on your computer. 
@@ -14,4 +16,5 @@ Step 8 - Create a Pull Request (PR) and assign your collaborator as the Reviewer
 Step 9 - Wait for your collaborator to review and approve your PR. 
 Step 10: Once approved, merge the new branch into the main (master) branch. 
 
+#Collaborators
 Collaborators involved: Mario Ferreira & Ezekiel Hodge
